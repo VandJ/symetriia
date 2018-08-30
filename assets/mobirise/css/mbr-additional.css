@@ -808,11 +808,20 @@ blockquote {
 #features15-2 .mbr-section-title SPAN {
   font-family: 'Roboto', sans-serif;
 }
+#features1-13 .mbr-section-title {
+  font-weight: 700;
+}
+#features1-13 .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
 #testimonials1-6 .card-block p {
   font-size: 15px;
 }
 #testimonials1-6 .mbr-section-title {
   color: #95a5a6;
+  font-size: 72px;
 }
 #testimonials1-6 .card-footer > div {
   color: #95a5a6;
@@ -911,6 +920,83 @@ blockquote {
   color: #fff;
 }
 #footer1-h .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+
+#menu-s .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-s .navbar-caption {
+  color: #ffffff;
+}
+#menu-s .navbar-toggler {
+  color: #ffffff;
+}
+#menu-s .close-icon::before,
+#menu-s .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-s .link,
+#menu-s .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-s .link {
+  font-size: 1.05rem;
+}
+#menu-s .dropdown-item,
+#menu-s .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#menu-s .link:hover,
+#menu-s .link:focus {
+  color: #f39c12;
+}
+#menu-s .dropdown-item:hover::before,
+#menu-s .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-s .dropdown-item:hover,
+#menu-s .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-menu {
+  background: #222f3d;
+}
+#menu-s .nav-dropdown-sm .link:focus,
+#menu-s .nav-dropdown-sm .link:hover,
+#menu-s .nav-dropdown-sm .dropdown-item:focus,
+#menu-s .nav-dropdown-sm .dropdown-item:hover {
+  background: #2f4154!important;
+}
+#menu-s .navbar,
+#menu-s .nav-dropdown-sm,
+#menu-s .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-s .nav-dropdown-sm .dropdown-menu {
+  background: #34495e;
+}
+#menu-s .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-s .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-s .bg-color.transparent.opened .link:hover,
+#menu-s .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#footer1-t .mbr-section-subtitle,
+#footer1-t .mbr-section-text {
+  color: #fff;
+}
+#footer1-t .mbr-section-subtitle {
   margin-bottom: 20px;
   margin-top: 0;
 }
