@@ -6,13 +6,13 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
-        "buttonsColor": "#000000",
-        "secondaryColor": "#9b59b6",
-        "successColor": "#2ecc71",
-        "infoColor": "#3498db",
-        "warningColor": "#f1c40f",
-        "dangerColor": "#e74c3c",
+        "primaryColor": "#d63d41",
+        "buttonsColor": "#000032",
+        "secondaryColor": "#c2ab82",
+        "successColor": "#d63d41",
+        "infoColor": "#67013a",
+        "warningColor": "#01004e",
+        "dangerColor": "#000032",
         "titleFont": "Exo 2",
         "subtitleFont": "Roboto",
         "textFont": "Roboto",
@@ -20,7 +20,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#01004e",
+        "#d63d41",
+        "#000032",
+        "#c2ab82",
+        "#67013a"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
@@ -81,13 +87,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#222f3d"
+              "background": "#00001b"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f4154!important"
+              "background": "#01003f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#34495e"
+              "background": "#01004e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -110,7 +116,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#34495e",
+            "bgColor": "#01004e",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto",
