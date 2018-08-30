@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Symetriia",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -31,7 +31,7 @@
         "url": "https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 25,
+    "uniqCompNum": 28,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -990,6 +990,134 @@
           ],
           "_name": "content4",
           "_anchor": "content4-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1152.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": "0.8"
+          },
+          "title": "Наша команда",
+          "subtitle": "Давайте знакомиться :)",
+          "person1": "Jim Morrison",
+          "person2": "Eva Habermann",
+          "person3": "Barry Bostwick",
+          "person4": "Anna Cameron",
+          "subtitle1": "DEVELOPER",
+          "subtitle2": "DESIGNER",
+          "subtitle3": "DESIGNER",
+          "subtitle4": "PHOTOGRAPHER",
+          "caption1": "Data Centers have gained importance with hyper connectivity. To handle .",
+          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
+          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
+          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face1.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face2.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face3.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/face4.png",
+              "class": "features-img",
+              "width": 600
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "team2",
+          "_anchor": "team2-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.85
+          },
+          "title": "Подпишитесь на наши обновления",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "form": {
+            "action": "vandj@ukr.net",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "intro5",
+          "_anchor": "intro5-p"
         },
         {
           "_params": {
