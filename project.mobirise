@@ -703,15 +703,6 @@
           "_anchor": "features1-e"
         },
         {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
           "_params": {
             "logo": true,
             "showTitles": true,
@@ -730,12 +721,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-3-120x121.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-sq-white-152x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -743,25 +733,25 @@
               "size": 0
             }
           },
-          "title1": "product",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
-          "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
+          "title1": "Контакты",
+          "text11": "03040, г. Киев",
+          "text12": "пр. Голосеевский, д. 70,&nbsp;оф. 533",
+          "text13": "__________________________________",
+          "text14": "+380684616868",
+          "text15": "+380666824968",
+          "title2": "Разделы",
+          "text21": "О нас",
+          "text22": "Услуги",
+          "text23": "Портфолио",
+          "text24": "Блог",
+          "text25": "Контакты",
           "title3": "Learn more",
           "text31": "Support",
           "text32": "Developers",
           "text33": "Service",
           "text34": "Starter pack",
           "text35": "FAQ",
-          "followtext": "follow us",
+          "followtext": "Мы в соцсетях",
           "text": "Copyright (c) 2018 <a href=\"index.html\">Symetriia.com.ua</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
@@ -769,7 +759,12 @@
             "Тема"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-a"
+          "_anchor": "footer1-a",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1\" data-rv-view=\"616\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"col-xs-12 col-lg-2 text-xs-center\">\n    \t\t\t\t<div><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/logo-sq-white-152x128.png\" alt=\"Mobirise\"></a></div>\n    \t\t\t</div>\n    \t\t\t<div class=\"footer-list col-xs-12 col-lg-7\">\n    \t\t\t\t<div class=\"col-xs-12 col-md-6 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"51\">Контакты</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"52\">03040, г. Киев</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"53\">пр. Голосеевский, д. 70,&nbsp;оф. 533</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"54\">__________________________________</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"55\">+380684616868</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"56\">+380666824968</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-6 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"57\">Разделы</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"58\">О нас</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"59\">Услуги</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"60\">Портфолио</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"61\">Блог</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"62\">Контакты</p>\n                    </div>\n    \t\t\t</div>\n    \t\t\t<div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left\">\n    \t\t\t\t<p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"63\">Мы в соцсетях</p>\n    \t\t\t\t<div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"64\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"65\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"66\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"67\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"68\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n    \t\t\t</div>\n    \t\t</div>\n    \t</div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"69\">Copyright (c) 2018 <a href=\"index.html\">Symetriia.com.ua</a>.</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-subtitle, .mbr-section-text {\n  color: #fff;\n}\n.mbr-section-subtitle {\n  margin-bottom: 20px;\n  margin-top: 0;\n}\n",
+          "_customTemplate": true
         }
       ]
     }
