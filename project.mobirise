@@ -1,18 +1,18 @@
 {
   "settings": {
-    "name": "Site-08-29_1336",
+    "name": "Symetriia",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#d63d41",
-        "buttonsColor": "#000032",
-        "secondaryColor": "#c2ab82",
-        "successColor": "#d63d41",
-        "infoColor": "#67013a",
-        "warningColor": "#01004e",
-        "dangerColor": "#000032",
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
         "titleFont": "Exo 2",
         "subtitleFont": "Roboto",
         "textFont": "Roboto",
@@ -20,13 +20,7 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
-      "additionalSetColors": [
-        "#01004e",
-        "#d63d41",
-        "#000032",
-        "#c2ab82",
-        "#67013a"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
@@ -37,9 +31,16 @@
         "url": "https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 17,
+    "uniqCompNum": 16,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "firebaseSnippet": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -87,13 +88,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#00001b"
+              "background": "#222f3d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#01003f!important"
+              "background": "#2f4154!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#01004e"
+              "background": "#34495e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -116,7 +117,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#01004e",
+            "bgColor": "#34495e",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto",
@@ -443,18 +444,18 @@
             "paddingTop": 2,
             "paddingBottom": 1,
             "showBullets": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#01004e",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2c3e50",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#01004e",
-            "overlayOpacity": "0.7",
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
             "visibleSlides": "3",
             "slides": [
               {
@@ -702,8 +703,18 @@
           "_anchor": "features1-e"
         },
         {
-          "_styles": {},
+          "_styles": {
+            ".mbr-section-subtitle, .mbr-section-text": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "margin-bottom": "20px",
+              "margin-top": "0"
+            }
+          },
           "_params": {
+            "logo": true,
+            "showTitles": true,
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -711,15 +722,15 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#333333",
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayColor": "#f7f7f7",
+            "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-white-340x82.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-3-120x121.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -750,18 +761,15 @@
           "text33": "Service",
           "text34": "Starter pack",
           "text35": "FAQ",
-          "titled1": "Private policy",
-          "titled2": "Terms &amp; Conditions",
-          "titled3": "Copyright Notifications",
           "followtext": "follow us",
           "text": "Copyright (c) 2018 <a href=\"index.html\">Symetriia.com.ua</a>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Тема"
           ],
-          "_name": "footer7",
-          "_anchor": "footer7-g"
+          "_name": "footer1",
+          "_anchor": "footer1-a"
         }
       ]
     }
