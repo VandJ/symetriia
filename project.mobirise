@@ -443,18 +443,18 @@
             "paddingTop": 2,
             "paddingBottom": 1,
             "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#2c3e50",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#01004e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayColor": "#01004e",
+            "overlayOpacity": "0.7",
             "visibleSlides": "3",
             "slides": [
               {
