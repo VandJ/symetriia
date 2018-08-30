@@ -825,11 +825,3 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
-#footer1-a .mbr-section-subtitle,
-#footer1-a .mbr-section-text {
-  color: #fff;
-}
-#footer1-a .mbr-section-subtitle {
-  margin-bottom: 20px;
-  margin-top: 0;
-}
