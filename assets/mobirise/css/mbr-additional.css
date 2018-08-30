@@ -1080,3 +1080,122 @@ blockquote {
   margin-bottom: 20px;
   margin-top: 0;
 }
+
+#menu-1b .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1b .navbar-caption {
+  color: #ffffff;
+}
+#menu-1b .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1b .close-icon::before,
+#menu-1b .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1b .link,
+#menu-1b .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-1b .link {
+  font-size: 1.05rem;
+}
+#menu-1b .dropdown-item,
+#menu-1b .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#menu-1b .link:hover,
+#menu-1b .link:focus {
+  color: #f39c12;
+}
+#menu-1b .dropdown-item:hover::before,
+#menu-1b .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-1b .dropdown-item:hover,
+#menu-1b .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-1b .link[aria-expanded="true"],
+#menu-1b .dropdown-menu {
+  background: #222f3d;
+}
+#menu-1b .nav-dropdown-sm .link:focus,
+#menu-1b .nav-dropdown-sm .link:hover,
+#menu-1b .nav-dropdown-sm .dropdown-item:focus,
+#menu-1b .nav-dropdown-sm .dropdown-item:hover {
+  background: #2f4154!important;
+}
+#menu-1b .navbar,
+#menu-1b .nav-dropdown-sm,
+#menu-1b .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1b .nav-dropdown-sm .dropdown-menu {
+  background: #34495e;
+}
+#menu-1b .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1b .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1b .bg-color.transparent.opened .link:hover,
+#menu-1b .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-1b .link[aria-expanded="true"],
+#menu-1b .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
+#features5-1i .lead {
+  color: #9fa3a7;
+}
+#features5-1i .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-1i .card-number {
+  left: -20px;
+}
+#features5-1g .lead {
+  color: #9fa3a7;
+}
+#features5-1g .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-1g .card-number {
+  left: -20px;
+}
+#features5-1h .lead {
+  color: #9fa3a7;
+}
+#features5-1h .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-1h .card-number {
+  left: -20px;
+}
+#features5-1d .lead {
+  color: #9fa3a7;
+}
+#features5-1d .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features5-1d .card-number {
+  left: -20px;
+}
+#form3-1j .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form3-1j .form-control-label {
+  color: undefined;
+}
+#footer1-1c .mbr-section-subtitle,
+#footer1-1c .mbr-section-text {
+  color: #fff;
+}
+#footer1-1c .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+}
