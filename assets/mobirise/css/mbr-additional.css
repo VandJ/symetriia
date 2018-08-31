@@ -786,6 +786,21 @@ blockquote {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+@media (max-width: 992px) {
+  #menu-0 .nav-dropdown.navbar-toggleable-sm {
+    bottom: 0;
+    display: none;
+    right: 0;
+    overflow-x: hidden;
+    position: fixed;
+    top: 0;
+    transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    width: 18.75rem;
+    z-index: 999;
+  }
+}
 #features15-2 {
   
   
@@ -1069,9 +1084,6 @@ blockquote {
 #menu-14 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
-#contacts3-19 .form-control-label {
-  color: undefined;
-}
 #footer1-15 .mbr-section-subtitle,
 #footer1-15 .mbr-section-text {
   color: #fff;
@@ -1187,9 +1199,6 @@ blockquote {
 }
 #form3-1j .mbr-section-subtitle {
   text-transform: uppercase;
-}
-#form3-1j .form-control-label {
-  color: undefined;
 }
 #footer1-1c .mbr-section-subtitle,
 #footer1-1c .mbr-section-text {
