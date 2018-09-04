@@ -1,18 +1,18 @@
 {
   "settings": {
     "name": "Symetriia",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
+        "primaryColor": "#d35400",
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
-        "infoColor": "#3498db",
-        "warningColor": "#f1c40f",
-        "dangerColor": "#e74c3c",
+        "infoColor": "#01004e",
+        "warningColor": "#d63d41",
+        "dangerColor": "#67013a",
         "titleFont": "Exo 2",
         "subtitleFont": "Roboto",
         "textFont": "Roboto",
@@ -20,7 +20,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#01004e",
+        "#d63d41",
+        "#67013a",
+        "#c2ab82",
+        "#8f7f63"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
@@ -31,7 +37,7 @@
         "url": "https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 57,
+    "uniqCompNum": 64,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -88,13 +94,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#222f3d"
+              "background": "#00001b"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f4154!important"
+              "background": "#01003f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#34495e"
+              "background": "#01004e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -107,7 +113,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#d35400!important"
             }
           },
           "_params": {
@@ -117,7 +123,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#34495e",
+            "bgColor": "#01004e",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto",
@@ -151,7 +157,7 @@
           ],
           "_name": "menu",
           "_anchor": "menu-0",
-          "_customCSS": "@media (max-width: 992px) {\n  .nav-dropdown.navbar-toggleable-sm {\n    bottom: 0;\n    display: none;\n    right: 0;\n    overflow-x: hidden;\n    position: fixed;\n    top: 0;\n    transform: translateX(100%);\n    -ms-transform: translateX(100%);\n    -webkit-transform: translateX(100%);\n    width: 18.75rem;\n    z-index: 999; } }"
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -181,7 +187,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/2-2000x1334.jpg",
                 "contentAlign": "left",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -226,7 +232,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/-5-2000x1333.jpg",
                 "contentAlign": "left",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -301,7 +307,7 @@
           ],
           "_name": "features15",
           "_anchor": "features15-2",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features15 overflow-hidden\" data-rv-view=\"5\" style=\"background-color: rgb(67, 67, 80); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid position-relative\">\n            <div class=\"bg-circle\"></div>\n            <div class=\"row position-relative\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \n                    <div class=\"col-xs-12 col-lg-6\">\n                        <h1 class=\"mbr-section-title display-4 text-xs-left text-lg-center mbr-editable-content\" code-editable-id=\"326\"><span style=\"font-size: 36px; font-family: &quot;Open Sans&quot;, sans-serif;\">Симметрия 3Д - создаем комфорт</span></h1>\n                         <h5 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"327\"><span style=\"font-weight: normal;\"><em>Компания Симметрия 3Д занимается дизайном интерьера квартир и домов, архитектурным проектированием, а также техническим обследованием зданий. Поможем вам быстро создать жилье вашей мечты.</em></span></h5>\n                        <h4 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"328\"><br><br><br><br>Преимущества, которые помогают нам преуспевать:</h4>\n                    </div>\n\n                    <div class=\"col-xs-12 col-lg-6\">\n                        <div>\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/footer5-1-1920x1280.png\" class=\"card-img-top\"></div>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"display-5 mbr-section-title mbr-editable-content\" code-editable-id=\"329\">Качество работы</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"330\">Мы - &nbsp;команда &nbsp;профессионалов с\n<br>многолетним опытом в области архитектуры и дизайна. Чтобы проект был\n<br>технически совершенным, мы &nbsp;учитываем все нормативные требования по безопасности\nи энергосбережению.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"mbr-section-title display-5 mbr-editable-content\" code-editable-id=\"331\">Гибкость</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"332\">Независимо от объема и ценовой категории работ, для нас вы –\n<br>VIP-клиент. Даже если вы располагаете скромным бюджетом, мы создадим\n<br>оригинальный проект и дизайн, которым вы будете гордиться.</p>\n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"display-5 mbr-section-title mbr-editable-content\" code-editable-id=\"333\">Скорость</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"334\">Мы ценим ваше время и знаем, как вам хочется поскорее въехать\n<br>в новый дом. Поэтому работаем слаженно и быстро, как единый механизм, и всегда\n<br>соблюдаем заявленные сроки.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"font-size: 25px;\" code-editable-id=\"335\">Комплексный подход</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"336\">У нас вы можете заказать готовый вариант «под ключ». В таком случае наши услуги будут включать в себя проектирование и строительство здания, проведение инженерных систем, а также оформление интерьера и участка.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\n            </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features15 overflow-hidden\" data-rv-view=\"5\" style=\"background-color: rgb(67, 67, 80); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid position-relative\">\n            <div class=\"bg-circle\"></div>\n            <div class=\"row position-relative\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \n                    <div class=\"col-xs-12 col-lg-6\">\n                        <h1 class=\"mbr-section-title display-4 text-xs-left text-lg-center mbr-editable-content\" code-editable-id=\"130\"><span style=\"font-size: 36px; font-family: &quot;Open Sans&quot;, sans-serif;\">Симметрия 3Д - создаем комфорт</span></h1>\n                         <h5 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"131\"><span style=\"font-weight: normal;\"><em>Компания Симметрия 3Д занимается дизайном интерьера квартир и домов, архитектурным проектированием, а также техническим обследованием зданий. Поможем вам быстро создать жилье вашей мечты.</em></span></h5>\n                        <h4 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"132\"><br><br><br><br>Преимущества, которые помогают нам преуспевать:</h4>\n                    </div>\n\n                    <div class=\"col-xs-12 col-lg-6\">\n                        <div>\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/footer5-1-1920x1280.png\" class=\"card-img-top\"></div>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"font-size: 25px; text-align: left;\" code-editable-id=\"133\">Качество работы</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"134\">Мы - &nbsp;команда &nbsp;профессионалов с\n<br>многолетним опытом в области архитектуры и дизайна. Чтобы проект был\n<br>технически совершенным, мы &nbsp;учитываем все нормативные требования по безопасности\nи энергосбережению.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"mbr-section-title display-5 mbr-editable-content\" style=\"font-size: 25px; text-align: left;\" code-editable-id=\"135\">Гибкость</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"136\">Независимо от объема и ценовой категории работ, для нас вы –\n<br>VIP-клиент. Даже если вы располагаете скромным бюджетом, мы создадим\n<br>оригинальный проект и дизайн, которым вы будете гордиться.</p>\n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"font-size: 25px; text-align: left;\" code-editable-id=\"137\">Скорость</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"138\">Мы ценим ваше время и знаем, как вам хочется поскорее въехать\n<br>в новый дом. Поэтому работаем слаженно и быстро, как единый механизм, и всегда\n<br>соблюдаем заявленные сроки.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container padding-left-0\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-block text-xs-left\">\n                                <h5 class=\"display-5 mbr-section-title mbr-editable-content\" style=\"font-size: 25px; text-align: left;\" code-editable-id=\"139\">Комплексный подход</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"140\">У нас вы можете заказать готовый вариант «под ключ». В таком случае наши услуги будут включать в себя проектирование и строительство здания, проведение инженерных систем, а также оформление интерьера и участка.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\n            </div>\n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.mbr-section-title {\n  font-weight: 700;\n  text-align: center;\n}\n.display-6 {\n  text-transform: none;\n  letter-spacing: 0px;\n  font-weight: 400;\n  color: #fff;\n}\n.mbr-cards-row {\n  margin-top: 40px;\n}\n.mbr-section-title SPAN {\n  font-family: 'Roboto', sans-serif;\n}\n",
@@ -483,6 +489,29 @@
           "_anchor": "features1-13"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "80px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#8f7f63"
+          },
+          "title": "Наши последние работы",
+          "meta": "",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1p"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
@@ -491,9 +520,9 @@
             "paddingTop": "0",
             "paddingBottom": "2",
             "filterBgColor": false,
-            "bgColor": "#666666",
+            "bgColor": "#8f7f63",
             "showText": true,
-            "filter": true,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -733,7 +762,7 @@
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -742,8 +771,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2c3e50",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#c2ab82",
+            "overlayOpacity": "0.8"
           },
           "media1": {
             "image": {
@@ -937,7 +966,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-a",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1\" data-rv-view=\"616\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"col-xs-12 col-lg-2 text-xs-center\">\n    \t\t\t\t<div><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/logo-sq-white-152x128.png\" alt=\"Mobirise\"></a></div>\n    \t\t\t</div>\n    \t\t\t<div class=\"footer-list col-xs-12 col-lg-7\">\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"240\">03040, г. Киев</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"241\">пр. Голосеевский, д. 70,&nbsp;оф. 533</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"242\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"243\">+380684616868</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"244\">+380666824968</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"245\">О нас</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"246\">Услуги</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"247\">Портфолио</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"248\">Блог</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"249\">Контакты</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        \n                    </div>\n    \t\t\t</div>\n    \t\t\t<div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left\">\n    \t\t\t\t<p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"250\">Мы в соцсетях</p>\n    \t\t\t\t<div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"251\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"252\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"253\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"254\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"255\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n    \t\t\t</div>\n    \t\t</div>\n    \t</div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"256\">Copyright (c) 2018 <a href=\"index.html\">Symetriia.com.ua</a>.</p>\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1\" data-rv-view=\"616\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"col-xs-12 col-lg-2 text-xs-center\">\n    \t\t\t\t<div><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/logo-sq-white-152x128.png\" alt=\"Mobirise\"></a></div>\n    \t\t\t</div>\n    \t\t\t<div class=\"footer-list col-xs-12 col-lg-7\">\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"34\">03040, г. Киев</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"35\">пр. Голосеевский, д. 70,</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"36\">офис 533</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"37\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"38\">+380684616868</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"39\">+380666824968</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"40\">О нас</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"41\">Услуги</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"42\">Портфолио</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"43\">Блог</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"44\">Контакты</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        \n                    </div>\n    \t\t\t</div>\n    \t\t\t<div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left\">\n    \t\t\t\t<p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"45\">Мы в соцсетях</p>\n    \t\t\t\t<div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"46\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"47\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"48\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"49\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"50\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n    \t\t\t</div>\n    \t\t</div>\n    \t</div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"51\">Copyright (c) 2018 <a href=\"index.html\">Symetriia.com.ua</a>.</p>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-subtitle, .mbr-section-text {\n  color: #fff;\n}\n.mbr-section-subtitle {\n  margin-bottom: 20px;\n  margin-top: 0;\n}\n",
@@ -986,13 +1015,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#222f3d"
+              "background": "#00001b"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2f4154!important"
+              "background": "#01003f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#34495e"
+              "background": "#01004e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1005,7 +1034,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#d35400!important"
             }
           },
           "_params": {
@@ -1015,7 +1044,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#34495e",
+            "bgColor": "#01004e",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto",
@@ -1245,27 +1274,34 @@
           "_anchor": "team2-q"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
             },
-            "overlay": true,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.85
+            ".form-control-label": {}
           },
-          "title": "Подпишитесь на наши обновления",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "_params": {
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#999999",
+            "overlay": true,
+            "overlayColor": "#8f7f63",
+            "overlayOpacity": 0.5
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "title": "Связаться с нами",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Написать</a>",
           "form": {
             "action": "vandj@ukr.net",
             "alerts": {
@@ -1273,19 +1309,23 @@
             },
             "fields": {
               "name": {
-                "visible": false,
+                "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Имя*"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email"
+                "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
               }
             }
           },
@@ -1293,8 +1333,8 @@
           "_tags": [
             "Тема"
           ],
-          "_name": "intro5",
-          "_anchor": "intro5-p"
+          "_name": "form1",
+          "_anchor": "form1-1r"
         },
         {
           "_params": {
@@ -1353,7 +1393,7 @@
             "Тема"
           ],
           "_name": "footer1",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1\" data-rv-view=\"616\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"col-xs-12 col-lg-2 text-xs-center\">\n    \t\t\t\t<div><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/logo-sq-white-152x128.png\" alt=\"Mobirise\"></a></div>\n    \t\t\t</div>\n    \t\t\t<div class=\"footer-list col-xs-12 col-lg-7\">\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"240\">03040, г. Киев</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"241\">пр. Голосеевский, д. 70,&nbsp;оф. 533</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"242\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"243\">+380684616868</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"244\">+380666824968</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"245\">О нас</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"246\">Услуги</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"247\">Портфолио</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"248\">Блог</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"249\">Контакты</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        \n                    </div>\n    \t\t\t</div>\n    \t\t\t<div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left\">\n    \t\t\t\t<p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"250\">Мы в соцсетях</p>\n    \t\t\t\t<div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"251\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"252\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"253\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"254\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"255\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n    \t\t\t</div>\n    \t\t</div>\n    \t</div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"256\">Copyright (c) 2018 <a href=\"index.html\">Symetriia.com.ua</a>.</p>\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1\" data-rv-view=\"616\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"col-xs-12 col-lg-2 text-xs-center\">\n    \t\t\t\t<div><a href=\"index.html\"><img src=\"@PROJECT_PATH@/assets/images/logo-sq-white-152x128.png\" alt=\"Mobirise\"></a></div>\n    \t\t\t</div>\n    \t\t\t<div class=\"footer-list col-xs-12 col-lg-7\">\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"240\">03040, г. Киев</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"241\">пр. Голосеевский, д. 70,<br>офис 533</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"242\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"243\">+380684616868</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"244\">+380666824968</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"245\">О нас</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"246\">Услуги</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"247\">Портфолио</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"248\">Блог</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"249\">Контакты</p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        \n                    </div>\n    \t\t\t</div>\n    \t\t\t<div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left\">\n    \t\t\t\t<p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"250\">Мы в соцсетях</p>\n    \t\t\t\t<div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"251\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"252\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"253\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"254\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"255\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n    \t\t\t</div>\n    \t\t</div>\n    \t</div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"256\">Copyright (c) 2018 <a href=\"index.html\">Symetriia.com.ua</a>.</p>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-subtitle, .mbr-section-text {\n  color: #fff;\n}\n.mbr-section-subtitle {\n  margin-bottom: 20px;\n  margin-top: 0;\n}\n",
@@ -1432,7 +1472,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#34495e",
+            "bgColor": "#01004e",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto",
@@ -1853,7 +1893,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#34495e",
+            "bgColor": "#01004e",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto",
@@ -2107,7 +2147,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#34495e",
+            "bgColor": "#01004e",
             "fontSize": "1.05",
             "fontName": {
               "name": "Roboto",
@@ -2515,9 +2555,9 @@
             "overlayColor": "#95a5a6",
             "overlayOpacity": "0.8"
           },
-          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
-          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
           "title": "Подписаться на обновления",
           "subtitle": "Получайте уведомления о публикации новых статей",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
