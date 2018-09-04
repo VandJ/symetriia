@@ -1206,3 +1206,89 @@ blockquote {
   margin-bottom: 20px;
   margin-top: 0;
 }
+
+#menu-1s .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1s .navbar-caption {
+  color: #ffffff;
+}
+#menu-1s .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1s .close-icon::before,
+#menu-1s .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1s .link,
+#menu-1s .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-1s .link {
+  font-size: 1.05rem;
+}
+#menu-1s .dropdown-item,
+#menu-1s .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#menu-1s .link:hover,
+#menu-1s .link:focus {
+  color: #d35400;
+}
+#menu-1s .dropdown-item:hover::before,
+#menu-1s .dropdown-item:focus::before {
+  background: #d35400;
+}
+#menu-1s .dropdown-item:hover,
+#menu-1s .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-1s .link[aria-expanded="true"],
+#menu-1s .dropdown-menu {
+  background: #00001b;
+}
+#menu-1s .nav-dropdown-sm .link:focus,
+#menu-1s .nav-dropdown-sm .link:hover,
+#menu-1s .nav-dropdown-sm .dropdown-item:focus,
+#menu-1s .nav-dropdown-sm .dropdown-item:hover {
+  background: #01003f!important;
+}
+#menu-1s .navbar,
+#menu-1s .nav-dropdown-sm,
+#menu-1s .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1s .nav-dropdown-sm .dropdown-menu {
+  background: #01004e;
+}
+#menu-1s .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1s .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1s .bg-color.transparent.opened .link:hover,
+#menu-1s .bg-color.transparent.opened .link:focus {
+  color: #d35400;
+}
+#menu-1s .link[aria-expanded="true"],
+#menu-1s .dropdown-item[aria-expanded="true"] {
+  color: #d35400!important;
+}
+#pricing-table2-1v .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table2-1v .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#pricing-table2-1v H1 {
+  color: #c2ab82;
+}
+#footer1-1t .mbr-section-subtitle,
+#footer1-1t .mbr-section-text {
+  color: #fff;
+}
+#footer1-1t .mbr-section-subtitle {
+  margin-bottom: 20px;
+  margin-top: 0;
+}
