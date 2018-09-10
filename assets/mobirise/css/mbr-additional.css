@@ -783,6 +783,9 @@ blockquote {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #d35400!important;
 }
+#slider-28 .mbr-section-title {
+  font-size: 36px;
+}
 #features7-20 .lead {
   color: #9fa3a7;
 }
