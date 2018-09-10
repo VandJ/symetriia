@@ -1,8 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -13,11 +10,11 @@ textarea,
 .mbr-section-text,
 .mbr-company .list-group-text,
 .panel-body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .alert,
 .mbr-section-title,
@@ -25,7 +22,7 @@ textarea,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -39,7 +36,7 @@ textarea,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn {
   border-radius: 2.6em;
@@ -53,22 +50,22 @@ textarea,
 .nav-tabs .nav-link,
 .mbr-testimonial .card-block,
 .table th {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -625,11 +622,11 @@ blockquote {
 }
 /*countdown*/
 .countdown .period {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .countdown .number {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .countdown1 .number-wrap {
   border-color: #d35400;
@@ -660,7 +657,7 @@ blockquote {
   color: #d35400;
 }
 .shop1 .shop-item-price {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .shop1 .mbr-gallery-item:hover .item_overlay {
   background: #d35400;
@@ -674,7 +671,7 @@ blockquote {
 .person-info .title3,
 .team1 .title4,
 .person-info .title4 {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .team1 .subtitle1,
 .person-info .subtitle1,
@@ -684,7 +681,7 @@ blockquote {
 .person-info .subtitle3,
 .team1 .subtitle4,
 .person-info .subtitle4 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .team1 .text1,
 .person-info .text1,
@@ -694,7 +691,7 @@ blockquote {
 .person-info .text3,
 .team1 .text4,
 .person-info .text4 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .person-info .subtitle1,
 .person-info .subtitle2,
@@ -703,19 +700,19 @@ blockquote {
   color: #d35400;
 }
 .animated-bg1 .text {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .features9 .timeline-panel h4 {
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .features9 .timeline-panel p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .features9 .date-normal p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .features9 .date-inverted p {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
 #menu-0 .hide-buttons .nav-btn {
@@ -786,35 +783,53 @@ blockquote {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #d35400!important;
 }
-#features15-2 {
-  
-  
-  
+#features7-20 .lead {
+  color: #9fa3a7;
+}
+#features7-20 .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#features7-20 .mbr-section-text {
+  color: #ecf0f1;
+}
+#features7-20 .mbr-section-title {
+  color: #ecf0f1;
+}
+#features2-22 {
   
 }
-#features15-2 .mbr-section-title {
+#features2-22 .mbr-section-title {
   font-weight: 700;
-  text-align: center;
+  text-align: left;
+  font-size: 60px;
+  color: #2c3e50;
 }
-#features15-2 .display-6 {
-  text-transform: none;
-  letter-spacing: 0px;
-  font-weight: 400;
-  color: #fff;
-}
-#features15-2 .mbr-cards-row {
-  margin-top: 40px;
-}
-#features15-2 .mbr-section-title SPAN {
-  font-family: 'Roboto', sans-serif;
-}
-#features1-13 .mbr-section-title {
-  font-weight: 700;
-}
-#features1-13 .mbr-section-subtitle {
+#features2-22 .mbr-section-subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
+}
+#features2-22 .features4 .card {
+  background-color: #01004e !important;
+  background-image: url('../../../assets/images/pocked2.png');
+  border-color: #01004e !important;
+  padding: 80px 0;
+}
+#features2-22 .card-block h5 {
+  padding-bottom: 40px;
+}
+#features7-27 .lead {
+  color: #9fa3a7;
+}
+#features7-27 .mbr-section-subtitle {
+  text-transform: uppercase;
+  color: #ecf0f1;
+}
+#features7-27 .mbr-section-title {
+  color: #ecf0f1;
+}
+#features7-27 .mbr-section-text {
+  color: #ecf0f1;
 }
 #content3-1p .mbr-section-title,
 #content3-1p .mbr-section-subtitle {
@@ -924,9 +939,6 @@ blockquote {
 }
 #form1-1r .mbr-section-subtitle {
   text-transform: uppercase;
-}
-#form1-1r .form-control-label {
-  color: undefined;
 }
 #footer1-h .mbr-section-subtitle,
 #footer1-h .mbr-section-text {
