@@ -803,6 +803,7 @@ blockquote {
   text-align: left;
   font-size: 45px;
   color: #000032;
+  text-transform: none;
 }
 #features2-22 {
   
@@ -831,42 +832,39 @@ blockquote {
   color: #9fa3a7;
 }
 #features7-27 .mbr-section-subtitle {
-  text-transform: uppercase;
   color: #000032;
+  margin-bottom: 10px;
 }
 #features7-27 .mbr-section-title {
   color: #000032;
-  font-size: 72px;
+  font-size: 45px;
   font-weight: 300;
 }
 #features7-27 .mbr-section-title-2 {
   color: #000032;
-  font-size: 60px;
-  font-weight: 300;
+  font-size: 32px;
+  font-weight: 400;
 }
 #features7-27 .mbr-section-text {
   color: #000032;
 }
-#content3-1p .mbr-section-title,
-#content3-1p .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-1p H3 {
-  font-size: 80px;
+#features7-27 .features7 .display-5 {
+  margin-top: 0;
 }
 #testimonials1-6 .card-block p {
   font-size: 15px;
 }
 #testimonials1-6 .mbr-section-title {
   color: #95a5a6;
-  font-size: 72px;
+  font-size: 46px;
+  text-align: left;
 }
 #testimonials1-6 .card-footer > div {
   color: #95a5a6;
 }
 #features1-e .mbr-section-title {
   font-weight: 300;
-  font-size: 72px;
+  font-size: 45px;
   color: #000032;
 }
 #features1-e .mbr-section-subtitle {
