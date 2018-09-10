@@ -795,13 +795,19 @@ blockquote {
 #features7-20 .mbr-section-title {
   color: #000032;
 }
+#content5-29 .mbr-section-title {
+  font-weight: 300;
+  text-align: left;
+  font-size: 45px;
+  color: #000032;
+}
 #features2-22 {
   
 }
 #features2-22 .mbr-section-title {
-  font-weight: 600;
+  font-weight: 300;
   text-align: left;
-  font-size: 60px;
+  font-size: 45px;
   color: #000032;
 }
 #features2-22 .mbr-section-subtitle {

@@ -49,7 +49,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 81,
+    "uniqCompNum": 82,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -352,6 +352,38 @@
         {
           "_params": {
             "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-854240-999x570.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": false,
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
+          },
+          "title": "Article header",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-29",
+          "_customHTML": "<section class=\"mbr-section content5 mbr-parallax-background\" data-rv-view=\"2515\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/1-854240-999x570.jpg&quot;); padding-top: 290px; padding-bottom: 290px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"1067\">Основные направления</h3>     \n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  font-weight: 300;\n  text-align: left;\n  font-size: 45px;\n  color: #000032;\n}",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": true,
             "showImages": false,
             "showTitles": true,
             "ShowTexts": false,
@@ -469,8 +501,8 @@
           ],
           "_name": "features2",
           "_anchor": "features2-22",
-          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);\n\n.mbr-section-title {\n  font-weight: 600;\n  text-align: left;\n  font-size: 60px;\n  color: #000032;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #fff;\n}\n.features4 .card {\n    background-color: #01004e !important;\n    background-image: url('@PROJECT_PATH@/assets/images/pocked2.png');\n    border-color: #01004e !important;\n    padding: 80px 0;\n}\n\n.card-block h5 {padding-bottom: 40px;}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4 mbr-parallax-background\" data-rv-view=\"1935\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/1-854240-999x570.jpg&quot;); padding-top: 80px; padding-bottom: 160px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(127, 199, 255);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"860\">Основные направления</h1>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"861\">Дизайн Интерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"862\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"863\">Дизайн Экстерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"864\">Подробнее</a></div>\n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"865\">Техническое обследование</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" style=\"font-family: &quot;Droid Serif&quot;, serif;\" code-editable-id=\"866\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"867\">Энерго и теплоаудит</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"868\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);\n\n.mbr-section-title {\n  font-weight: 300;\n  text-align: left;\n  font-size: 45px;\n  color: #000032;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #fff;\n}\n.features4 .card {\n    background-color: #01004e !important;\n    background-image: url('@PROJECT_PATH@/assets/images/pocked2.png');\n    border-color: #01004e !important;\n    padding: 80px 0;\n}\n\n.card-block h5 {padding-bottom: 40px;}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"1935\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/pocked3.png&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(127, 199, 255);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n           \n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1092\">Дизайн Интерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"1093\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1094\">Дизайн Экстерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"1095\">Подробнее</a></div>\n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1096\">Техническое обследование</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" style=\"font-family: &quot;Droid Serif&quot;, serif;\" code-editable-id=\"1097\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1098\">Энерго и теплоаудит</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"1099\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
