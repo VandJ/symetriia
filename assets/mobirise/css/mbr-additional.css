@@ -828,47 +828,43 @@ blockquote {
 #features2-22 .card-block h5 {
   padding-bottom: 40px;
 }
-#features7-27 .lead {
+#content5-2g .mbr-section-title {
+  font-weight: 300;
+  text-align: left;
+  font-size: 45px;
+  color: #000032;
+  text-transform: none;
+}
+#features7-2h .lead {
   color: #9fa3a7;
 }
-#features7-27 .mbr-section-subtitle {
-  color: #000032;
-  margin-bottom: 10px;
+#features7-2h .mbr-section-subtitle {
+  text-transform: uppercase;
 }
-#features7-27 .mbr-section-title {
-  color: #000032;
-  font-size: 45px;
-  font-weight: 300;
+#features7-2i .lead {
+  color: #9fa3a7;
 }
-#features7-27 .mbr-section-title-2 {
-  color: #000032;
-  font-size: 32px;
-  font-weight: 400;
+#features7-2i .mbr-section-subtitle {
+  text-transform: uppercase;
 }
-#features7-27 .mbr-section-text {
-  color: #000032;
+#features7-2j .lead {
+  color: #9fa3a7;
 }
-#features7-27 .features7 .display-5 {
-  margin-top: 0;
+#features7-2j .mbr-section-subtitle {
+  text-transform: uppercase;
 }
 #testimonials1-6 .card-block p {
   font-size: 15px;
 }
 #testimonials1-6 .mbr-section-title {
-  color: #95a5a6;
+  color: #000032;
   font-size: 46px;
   text-align: left;
 }
 #testimonials1-6 .card-footer > div {
-  color: #95a5a6;
-}
-#features1-e .mbr-section-title {
-  font-weight: 300;
-  font-size: 45px;
   color: #000032;
 }
-#features1-e .mbr-section-subtitle {
-  letter-spacing: 2px;
+#testimonials1-6 .card-block P {
   color: #000032;
 }
 #footer1-a .mbr-section-subtitle,

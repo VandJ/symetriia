@@ -21,13 +21,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#000032",
         "#d4e1ee",
         "#01004e",
         "#d63d41",
         "#67013a",
         "#c2ab82",
-        "#8f7f63",
-        "#7fc7ff"
+        "#8f7f63"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -49,7 +49,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
-    "uniqCompNum": 84,
+    "uniqCompNum": 99,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -281,11 +281,11 @@
           ],
           "_name": "slider",
           "_anchor": "slider-28",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
+          "_customHTML": "<section class=\"mbr-slider mbr-section mbr-section__container carousel slide mbr-section-nopadding mbr-after-navbar\" data-ride=\"carousel\" data-keyboard=\"false\" data-wrap=\"true\" data-pause=\"false\" data-interval=\"5000\" data-rv-view=\"1440\">\n    <div>\n        <div>\n            <div>\n                <ol class=\"carousel-indicators\">\n                    <li data-app-prevent-settings=\"\" data-target=\"#slider-28\" class=\"active\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#slider-28\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#slider-28\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#slider-28\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#slider-28\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#slider-28\" data-slide-to=\"5\"></li>\n                </ol>\n                <div class=\"carousel-inner\" role=\"listbox\">\n                    <div class=\"mbr-section mbr-section-hero carousel-item dark center mbr-section-full active\" data-bg-video-slide=\"false\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/1-2000x1334.jpg&quot;);\">\n                        <div class=\"mbr-table-cell\">\n                            <div class=\"mbr-overlay\" style=\"opacity: 0.3;\"></div>\n                            <div class=\"container-slide container\">\n                                \n                                <div class=\"row\">\n                                    <div class=\"col-md-10 col-md-offset-1 text-xs-right\">\n                                        <h2 class=\"mbr-section-title display-1 mbr-editable-content\">Архитектура и дизайн жилых интерьеров</h2>\n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div><div class=\"mbr-section mbr-section-hero carousel-item dark center mbr-section-full\" data-bg-video-slide=\"false\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/2-1500x1000.jpg&quot;);\">\n                        <div class=\"mbr-table-cell\">\n                            <div class=\"mbr-overlay\" style=\"opacity: 0.3;\"></div>\n                            <div class=\"container-slide container\">\n                                \n                                <div class=\"row\">\n                                    <div class=\"col-md-10 col-md-offset-1 text-xs-right\">\n                                        <h2 class=\"mbr-section-title display-1 mbr-editable-content\">Дизайн коммерческих интерьеров</h2>\n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div><div class=\"mbr-section mbr-section-hero carousel-item dark center mbr-section-full\" data-bg-video-slide=\"false\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/3-2000x1333.jpg&quot;);\">\n                        <div class=\"mbr-table-cell\">\n                            <div class=\"mbr-overlay\" style=\"opacity: 0.3;\"></div>\n                            <div class=\"container-slide container\">\n                                \n                                <div class=\"row\">\n                                    <div class=\"col-md-10 col-md-offset-1 text-xs-right\">\n                                        <h2 class=\"mbr-section-title display-1 mbr-editable-content\">Дизайн интерьера в деталях</h2>\n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div><div class=\"mbr-section mbr-section-hero carousel-item dark center mbr-section-full\" data-bg-video-slide=\"false\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/4-975x651.jpg&quot;);\">\n                        <div class=\"mbr-table-cell\">\n                            <div class=\"mbr-overlay\" style=\"opacity: 0.2;\"></div>\n                            <div class=\"container-slide container\">\n                                \n                                <div class=\"row\">\n                                    <div class=\"col-md-10 col-md-offset-1\">\n                                        <h2 class=\"mbr-section-title display-1 mbr-editable-content\">Дизайн архитектурной среды</h2>\n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div><div class=\"mbr-section mbr-section-hero carousel-item dark center mbr-section-full\" data-bg-video-slide=\"false\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/5-2000x1334.jpg&quot;);\">\n                        <div class=\"mbr-table-cell\">\n                            <div class=\"mbr-overlay\"></div>\n                            <div class=\"container-slide container\">\n                                \n                                <div class=\"row\">\n                                    <div class=\"col-md-10 col-md-offset-1\">\n                                        <h2 class=\"mbr-section-title display-1 mbr-editable-content\">Реализация дизайн-проектов</h2>\n                                        \n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div><div class=\"mbr-section mbr-section-hero carousel-item dark center mbr-section-full\" data-bg-video-slide=\"false\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/6.-1000x750.jpg&quot;);\">\n                        <div class=\"mbr-table-cell\">\n                            <div class=\"mbr-overlay\" style=\"opacity: 0.2;\"></div>\n                            <div class=\"container-slide container\">\n                                \n                                <div class=\"row\">\n                                    <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n                                        <h2 class=\"mbr-section-title display-1 mbr-editable-content\">Техническое обследование&nbsp;</h2>\n                                        <p class=\"mbr-section-text lead mbr-editable-content\">Оценка технического состояния строения</p>\n\n                                        \n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n\n                <a data-app-prevent-settings=\"\" class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#slider-28\"><img src=\"@PROJECT_PATH@/assets/images/arrow-left.png\"></a>\n                <a data-app-prevent-settings=\"\" class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#slider-28\"><img src=\"@PROJECT_PATH@/assets/images/arrow-right.png\"></a>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  font-size: 36px;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -349,7 +349,7 @@
           "_name": "features7",
           "_anchor": "features7-20",
           "_customCSS": ".lead {\n  color: #9fa3a7;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n}\n.mbr-section-text {\n  color: #000032;\n}\n.mbr-section-title {\n  color: #000032;\n}\n",
-          "_customHTML": "<section class=\"mbr-cards mbr-section features7\" data-rv-view=\"2\" style=\"background-color: rgb(212, 225, 238); padding-top: 80px; padding-bottom: 80px; background-image: url('@PROJECT_PATH@/assets/images/pocked3.png');\">\n<div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(212, 225, 238);\"></div>\n    \n\n\n    <div class=\"container-fluid position-relative\">\n\n        <div class=\"row\">\n\n            <div class=\"col-lg-10 col-lg-offset-1 col-xs-12\">            \n                \n                <div class=\"col-lg-6 col-xs-12 table-cell-lg image-size\" style=\"width: 50%;\">\n                   <h4 class=\"mbr-section-title display-5 mbr-editable-content\" code-editable-id=\"965\">Симметрия 3D - создаем комфорт</h4> \n                </div>\n\n                <div class=\"col-lg-6 table-cell-lg table-cell-middle content-size\">\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        \n                        <div class=\"card-block\">\n                            \n                            \n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"966\">Компания Симметрия 3Д занимается дизайном интерьера квартир и домов,\n<br>архитектурным проектированием, а также техническим обследованием зданий.\n<br><br>Поможем вам быстро создать жилье вашей мечты.<br><br></p>\n                            \n                        </div>\n                    </div>\n                </div>\n\n            </div>\n\n        </div>\n\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section features7\" data-rv-view=\"2\" style=\"background-color: rgb(212, 225, 238); padding-top: 80px; padding-bottom: 80px; background-image: url('@PROJECT_PATH@/assets/images/pocked3.png');\">\n<div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(255, 255, 255);\">\n    </div>\n    \n\n\n    <div class=\"container-fluid position-relative\">\n\n        <div class=\"row\">\n\n            <div class=\"col-lg-10 col-lg-offset-1 col-xs-12\">            \n                \n                <div class=\"col-lg-6 col-xs-12 table-cell-lg image-size\" style=\"width: 50%;\">\n                   <h4 class=\"mbr-section-title display-5 mbr-editable-content\" code-editable-id=\"916\">Компания \"Симметрия 3Д\"</h4> \n                </div>\n\n                <div class=\"col-lg-6 table-cell-lg table-cell-middle content-size\">\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        \n                        <div class=\"card-block\">\n                            \n                            \n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"917\">Дизайн интерьеров любой сложность - основное и любимое направление. <br>Для Вас работают более 10 профессионалов.<br>Архитектурное проектирование домов, дач коттеджей.<br>Техническое обследование и энергоаудит зданий и сооружений.</p>\n                            \n                        </div>\n                    </div>\n                </div>\n\n            </div>\n\n        </div>\n\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -380,7 +380,7 @@
           ],
           "_name": "content5",
           "_anchor": "content5-29",
-          "_customHTML": "<section class=\"mbr-section content5 mbr-parallax-background\" data-rv-view=\"2515\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/1-854240-999x570.jpg&quot;); padding-top: 290px; padding-bottom: 290px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"544\">Основные направления</h3>     \n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5 mbr-parallax-background\" data-rv-view=\"2515\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/blue-b2.jpg&quot;); padding-top: 290px; padding-bottom: 290px;\">\n <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(127, 199, 255);\"></div> \n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"1051\">Основные направления</h3>     \n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n  font-weight: 300;\n  text-align: left;\n  font-size: 45px;\n  color: #000032;\n  text-transform: none;\n}",
@@ -507,17 +507,49 @@
           "_name": "features2",
           "_anchor": "features2-22",
           "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);\n\n.mbr-section-title {\n  font-weight: 300;\n  text-align: left;\n  font-size: 45px;\n  color: #000032;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #fff;\n}\n.features4 .card {\n    background-color: #01004e !important;\n    background-image: url('@PROJECT_PATH@/assets/images/pocked2.png');\n    border-color: #01004e !important;\n    padding: 80px 0;\n}\n\n.card-block h5 {padding-bottom: 40px;}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"1935\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/pocked3.png&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.1; background-color: rgb(127, 199, 255);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n           \n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1092\">Дизайн Интерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"1093\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1094\">Дизайн Экстерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"1095\">Подробнее</a></div>\n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1096\">Техническое обследование</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" style=\"font-family: &quot;Droid Serif&quot;, serif;\" code-editable-id=\"1097\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"1098\">Энерго и теплоаудит</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"1099\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features4\" data-rv-view=\"1935\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/pocked3.png&quot;); padding-top: 40px; padding-bottom: 40px;\">\n\n   <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(255, 255, 255);\">\n    </div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n           \n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"983\">Дизайн Интерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"984\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"985\">Дизайн Экстерьера</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"986\">Подробнее</a></div>\n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"987\">Техническое обследование</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" style=\"font-family: Montserrat, sans-serif;\" code-editable-id=\"988\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            \n                            \n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"989\">Энерго и теплоаудит</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-white mbr-editable-button\" code-editable-id=\"990\">Подробнее</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
         },
         {
           "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-854240-999x570.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": false,
+            "overlayColor": "#169581",
+            "overlayOpacity": 0.8
+          },
+          "title": "Article header",
+          "caption": "<p>Article header with background image and parallax effect.</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content5",
+          "_customHTML": "<section class=\"mbr-section content5 mbr-parallax-background\" data-rv-view=\"2515\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/ext-bg.jpg&quot;); padding-top: 290px; padding-bottom: 290px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(127, 199, 255);\"></div>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"1032\">Делая выбор</h3>     \n    </div>\n\n</section>",
+          "_customCSS": ".mbr-section-title {\n  font-weight: 300;\n  text-align: left;\n  font-size: 45px;\n  color: #000032;\n  text-transform: none;\n}",
+          "_customTemplate": true,
+          "_anchor": "content5-2g",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
             "showImages": true,
-            "showNumber": true,
+            "showNumber": false,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "imageSize": 50,
             "showButtons": false,
@@ -527,7 +559,7 @@
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3498db",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -569,131 +601,139 @@
             "Тема"
           ],
           "_name": "features7",
-          "_anchor": "features7-27",
-          "_customHTML": "<section class=\"mbr-cards mbr-section features7\" data-rv-view=\"4108\" style=\"background-color: #d4e1ee; padding-top: 80px; padding-bottom: 80px; background-image: url('@PROJECT_PATH@/assets/images/pocked3.png');\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.6; background-color: rgb(212, 225, 238);\"></div>\n\n\n    <div class=\"container-fluid position-relative\">\n\n        <div class=\"row\">\n\n            <div class=\"col-lg-10 col-lg-offset-1 col-xs-12\">            \n                \n                <div class=\"col-lg-6 col-xs-12 table-cell-lg\">\n                    <h4 class=\"mbr-section-title display-5 mbr-editable-content\" code-editable-id=\"27\">Делая выбор</h4>\n                </div>\n\n                <div class=\"col-lg-6 table-cell-lg table-cell-middle content-size\">\n                    <h4 class=\"mbr-section-title-2 display-5 mbr-editable-content\" code-editable-id=\"28\">Наши преимущества</h4>\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        <div class=\"card-number mbr-editable-content\" code-editable-id=\"29\">1</div>\n                        <div class=\"card-block\">\n                            <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"30\">Качество работы</h5>\n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"31\">В нашей команде трудятся профессионалы с\nмноголетним опытом в области архитектуры и дизайна. Чтобы проект был\nтехнически совершенным, мы подключаем к работе самых авторитетных\n<br>архитекторов Украины и учитываем все нормативные требования по безопасности\nи энергосбережению.</p>\n                            \n                        </div>\n                    </div>\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        <div class=\"card-number mbr-editable-content\" code-editable-id=\"32\">2</div>\n                        <div class=\"card-block\">\n                            <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"33\">Гибкость</h5>\n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"34\">Независимо от объема и ценовой категории работ, для нас вы –\nVIP-клиент. Даже если вы располагаете скромным бюджетом, мы создадим\nоригинальный проект и дизайн, которым вы будете гордиться.</p>\n                            \n                        </div>\n                    </div>\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        <div class=\"card-number mbr-editable-content\" code-editable-id=\"35\">3</div>\n                        <div class=\"card-block\">\n                            <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"36\">Скорость</h5>\n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"37\">Мы ценим ваше время и знаем, как вам хочется поскорее въехать в новый дом. Поэтому работаем слаженно и быстро, как единый механизм, и всегда соблюдаем заявленные сроки.</p>\n                            \n                        </div>\n                    </div>\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        <div class=\"card-number mbr-editable-content\" code-editable-id=\"38\">4</div>\n                        <div class=\"card-block\">\n                            <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"39\">Безопасность</h5>\n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"40\">Используем в работе только качественные экологичные материалы, безопасные для здоровья человека и окружающей среды.</p>\n                            \n                        </div>\n                    </div>\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        <div class=\"card-number mbr-editable-content\" code-editable-id=\"41\">5</div>\n                        <div class=\"card-block\">\n                            <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"42\">Комплексный подход</h5>\n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"43\">У нас вы можете заказать готовый вариант «под ключ». В таком случае наши услуги будут включать в себя проектирование и строительство здания, проведение инженерных систем, а также оформление интерьера и участка.</p>\n                            \n                        </div>\n                    </div>\n                </div>\n\n            </div>\n\n        </div>\n\n    </div>\n\n</section>",
+          "_anchor": "features7-2h",
+          "_customHTML": "<section class=\"mbr-cards mbr-section features7\" data-rv-view=\"1465\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n\n   <div class=\"container-fluid position-relative\">\n\n        <div class=\"row\">\n\n            <div class=\"col-lg-10 col-lg-offset-1 col-xs-12\">            \n                \n                <div class=\"col-lg-6 col-xs-12\">\n                    <div class=\"card-block\"> <h4 class=\"mbr-section-title display-5 mbr-editable-content\" style=\"color: rgb(0, 0, 50);\" code-editable-id=\"1421\">Комплексный подход</h4></div>\n                </div>\n\n                <div class=\"col-lg-6 table-cell-lg table-cell-middle\">\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        \n                        <div class=\"card-block\">\n                            \n                            \n                            <p class=\"mbr-section-text lead mbr-editable-content\" style=\"color: rgb(0, 0, 50);\" code-editable-id=\"1422\">Эксклюзивный дизайн интерьера и его реализация \"под ключ\"</p>\n                            \n                        </div>\n                    </div>\n                </div>\n\n            </div>\n\n        </div>\n\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n.lead {\n  color: #9fa3a7;\n}\n.mbr-section-subtitle {\n  color: #000032;\n  margin-bottom: 10px;\n}\n.mbr-section-title {\n  color: #000032;\n  font-size: 45px;\n  font-weight: 300; \n}\n.mbr-section-title-2 {\n  color: #000032;\n  font-size: 32px;\n  font-weight: 400; \n}\n.mbr-section-text {\n  color: #000032;\n}\n\n.features7 .display-5 {\n    margin-top:0;\n}\n\n",
+          "_customCSS": "@import url(undefined);\n.lead {\n  color: #9fa3a7;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n}\n",
           "_customTemplate": true
         },
         {
-          "_inherit": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "filterBgColor": false,
-            "bgColor": "#8f7f63",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "alt": "",
-                "title": "",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
+            "showImages": true,
+            "showNumber": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "imageSize": 50,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pocked3-1080x675.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": "0.2"
           },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/notebook/nb12.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "number1": "1",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">watch now</a>",
           "alias": "colorm/components",
           "_tags": [
             "Тема"
           ],
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "Все",
-          "_name": "gallery3",
-          "_anchor": "gallery3-4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel\" data-filter=\"false\" data-rv-view=\"29\" style=\"background-color: rgb(143, 127, 99); padding-top: 3rem; padding-bottom: 3rem;\">\n    <!-- Filter -->\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"412\">Свежие проекты</h3>             \n            </div>\n        </div>\n    </div>\n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery00.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"413\">Type caption here</span>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery01.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"414\">Type caption here</span>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Creative\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery02.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"415\">Type caption here</span>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery03.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"416\">Type caption here</span>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery04.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"417\">Type caption here</span>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Beautiful\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery05.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"418\">Type caption here</span>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery06.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"419\">Type caption here</span>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p2\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery3-4\" data-slide-to=\"7\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery07.jpg\" alt=\"\" title=\"\">\n                            \n                            <span class=\"icon-magnifying-glass\"></span>\n                        </div>\n\n                        <span class=\"mbr-gallery-title display-6 mbr-editable-content\" code-editable-id=\"420\">Type caption here</span>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery3-4\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" class=\" active\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" data-slide-to=\"5\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" data-slide-to=\"6\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery3-4\" data-slide-to=\"7\"></li>\n                    </ol>\n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item active\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery00.jpg\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery01.jpg\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery02.jpg\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery03.jpg\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery04.jpg\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery05.jpg\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery06.jpg\" alt=\"\" title=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/gallery07.jpg\" alt=\"\" title=\"\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery3-4\"><img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\"></a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery3-4\"><img src=\"@PROJECT_PATH@/assets/images/arrowright.png\"></a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_name": "features7",
+          "_anchor": "features7-2i",
+          "_customHTML": "<section class=\"mbr-cards mbr-section features7\" data-rv-view=\"1468\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/pocked3-1080x675.png&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(255, 255, 255);\">\n    </div>\n\n\n    <div class=\"container-fluid position-relative\">\n\n        <div class=\"row\">\n\n            <div class=\"col-lg-10 col-lg-offset-1 col-xs-12\">            \n                \n                <div class=\"col-lg-6 col-xs-12\">\n                    <div class=\"card-block\"> <h4 class=\"mbr-section-title display-5 mbr-editable-content\" style=\"color: rgb(0, 0, 50);\" code-editable-id=\"1425\">Качество и безопасность</h4></div>\n                </div>\n\n                <div class=\"col-lg-6 table-cell-lg table-cell-middle\">\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        \n                        <div class=\"card-block\">\n                            \n                           \n                            <p class=\"mbr-section-text lead mbr-editable-content\" style=\"color: rgb(0, 0, 50);\" code-editable-id=\"1426\">Технически совершенный проект.<br>Только экологичные материалы.<br>Соблюдение всех строительныйх норм</p>\n                            \n                        </div>\n                    </div>\n                </div>\n\n            </div>\n\n        </div>\n\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "",
+          "_customCSS": "@import url(undefined);\n.lead {\n  color: #9fa3a7;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showNumber": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "imageSize": 50,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/notebook/nb12.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "number1": "1",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">watch now</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features7",
+          "_anchor": "features7-2j",
+          "_customHTML": "<section class=\"mbr-cards mbr-section features7\" data-rv-view=\"1465\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n\n    <div class=\"container-fluid position-relative\">\n\n        <div class=\"row\">\n\n            <div class=\"col-lg-10 col-lg-offset-1 col-xs-12\">            \n                \n                <div class=\"col-lg-6 col-xs-12\">\n                    <div class=\"card-block\"> <h4 class=\"mbr-section-title display-5 mbr-editable-content\" style=\"color: rgb(0, 0, 50);\" code-editable-id=\"1429\">Скорость и гибкость</h4></div>\n                </div>\n\n                <div class=\"col-lg-6 table-cell-lg table-cell-middle\">\n                    <div class=\"card cart-block text-xs-left position-relative\">\n                        \n                        <div class=\"card-block\">\n                            \n                            \n                            <p class=\"mbr-section-text lead mbr-editable-content\" style=\"color: rgb(0, 0, 50);\" code-editable-id=\"1430\">Быстрая и слаженная команда. Работа с любым бютжетом.</p>\n                            \n                        </div>\n                    </div>\n                </div>\n\n            </div>\n\n        </div>\n\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n.lead {\n  color: #9fa3a7;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n}\n",
           "_customTemplate": true
         },
         {
@@ -702,12 +742,15 @@
               "font-size": "15px"
             },
             ".mbr-section-title": {
-              "color": "#95a5a6",
+              "color": "#000032",
               "font-size": "46px",
               "text-align": "left"
             },
             ".card-footer > div": {
-              "color": "#95a5a6"
+              "color": "#000032"
+            },
+            ".card-block P": {
+              "color": "#000032"
             }
           },
           "_params": {
@@ -721,18 +764,18 @@
             "paddingTop": "1",
             "paddingBottom": 1,
             "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
             "bgColor": "#2c3e50",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayColor": "#d4e1ee",
+            "overlayOpacity": "0.7",
             "visibleSlides": "3",
             "slides": [
               {
@@ -811,168 +854,6 @@
           ],
           "_name": "testimonials1",
           "_anchor": "testimonials1-6"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showImages": true,
-            "showTitles": true,
-            "ShowTexts": false,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2c3e50",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#d4e1ee",
-            "overlayOpacity": "0.3"
-          },
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/01.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/02.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/03.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/04.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/05.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/06.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title": "Статьи",
-          "title1": "Bootstrap 4",
-          "subtitle1": "Статья 1",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ЧИтать</a>",
-          "title2": "Responsive",
-          "subtitle2": "СТАТЬЯ 2",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
-          "title3": "Web Fonts",
-          "subtitle3": "СТАТЬЯ 3",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "buttons3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
-          "title4": "Unlimited Sites",
-          "subtitle4": "СТАТЬЯ 4",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Читать</a>",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-e",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features1 features4 mbr-parallax-background\" data-rv-view=\"60\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg&quot;); padding-top: 80px; padding-bottom: 80px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(212, 225, 238);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h4 class=\"mbr-section-title display-1 mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"430\">Статьи</h4>\n\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/01.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"431\">Статья 1</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"432\">Читать</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/02.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"433\">Статья 2</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"434\">Читать</a></div>\n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/03.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"435\">Статья 3</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"index.html\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"436\">Читать</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/04.jpg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"437\">Статья 4</h5>\n                                \n\n\n                                <div class=\"mbr-section-btn text-xs-center\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"438\">Читать</a></div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n.mbr-section-title {\n  font-weight: 300;\n  font-size: 45px;\n  color: #000032;\n}\n.mbr-section-subtitle {\n  letter-spacing: 2px;\n  color: #000032;\n}\n",
-          "_customTemplate": true
         },
         {
           "_params": {
